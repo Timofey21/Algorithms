@@ -1,2 +1,2 @@
 # Algorithms
-algoritms for exam
+algorithms for exam
